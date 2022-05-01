@@ -1,7 +1,8 @@
 import styled from '@emotion/styled';
 
-const Heading = styled.h1`
+const Heading = styled.p`
   font-size: 1.5rem;
+  font-family: 'Rubik', sans-serif;
   font-weight: bold;
 `;
 

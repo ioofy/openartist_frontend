@@ -15,7 +15,7 @@ this repo only for learning deep about react also lifecycle and using with TDD o
 - 🚓 Commitlint — Make sure your commit messages follow the convention
 - 🖌 ~~Renovate — Keep your dependencies up to date~~
 - 🚫 lint-staged — To run ESLint and Prettier against staged Git files
-- 👷 PR Workflow — Run Type Check & Linters on all Pull Requests
+- 👷 ~~PR Workflow — Run Type Check & Linters on all Pull Requests~~
 - ⚙️ EditorConfig - Maintain consistent coding styles across editors and IDEs
 - 🗂 Path Mapping — Import components or images using the `@` prefix
 
