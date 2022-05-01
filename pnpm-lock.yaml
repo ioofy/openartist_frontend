@@ -22,6 +22,7 @@ specifiers:
   eslint-config-prettier: 8.5.0
   eslint-import-resolver-typescript: 2.7.1
   eslint-plugin-prettier: 4.0.0
+  eslint-plugin-react-hooks: 4.5.0
   husky: 7.0.4
   lint-staged: 12.4.1
   next: 12.1.5
@@ -57,6 +58,7 @@ devDependencies:
   eslint-config-prettier: 8.5.0_eslint@8.14.0
   eslint-import-resolver-typescript: 2.7.1_eslint@8.14.0
   eslint-plugin-prettier: 4.0.0_665eb419c9d7860ca0c224f7f6dcdace
+  eslint-plugin-react-hooks: 4.5.0_eslint@8.14.0
   husky: 7.0.4
   lint-staged: 12.4.1
   prettier: 2.6.2
@@ -2048,6 +2050,15 @@ packages:
 
   /eslint-plugin-react-hooks/4.3.0_eslint@8.14.0:
     resolution: {integrity: sha512-XslZy0LnMn+84NEG9jSGR6eGqaZB3133L8xewQo3fQagbQuGt7a63gf+P1NGKZavEYEC3UXaWEAA/AqDkuN6xA==}
+    engines: {node: '>=10'}
+    peerDependencies:
+      eslint: ^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0-0
+    dependencies:
+      eslint: 8.14.0
+    dev: true
+
+  /eslint-plugin-react-hooks/4.5.0_eslint@8.14.0:
+    resolution: {integrity: sha512-8k1gRt7D7h03kd+SAAlzXkQwWK22BnK6GKZG+FJA6BAGy22CFvl8kCIXKpVux0cCxMWDQUPqSok0LKaZ0aOcCw==}
     engines: {node: '>=10'}
     peerDependencies:
       eslint: ^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0-0
