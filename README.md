@@ -7,7 +7,7 @@ this repo only for learning deep about react also lifecycle and using with TDD o
 - ⚡️ Next.js 12
 - ⚛️ React 18
 - ⛑ TypeScript
-- 💅 Antd + Emotion for styling
+- 💅 Tailwind + Emotion for styling
 - 📏 ESLint — Find and fix problems in your code
 - 💖 Prettier — Code Formatter for consistent style
 - 🐶 Husky — For running scripts before committing
@@ -42,7 +42,7 @@ Open `http://localhost:3000` with your browser to see the result.
 ### Requirements
 
 - Node.js >= 12.22.0
-- Yarn 1 (Classic)
+- Yarn 1 (Classic) or pnpm
 
 ### Directory Structure
 
@@ -72,9 +72,9 @@ import { Button } from '@/components/Button';
 import avatar from '@/public/avatar.png';
 ```
 
-### Switch to pnpm
+### Switch to yarn or npm
 
-By default, this starter uses Yarn (Classic), but this choice is yours. If you'd like to switch to pnpm, delete the `yarn.lock` file, install the dependencies with `pnpm i`
+By default, this starter uses pnpm, but this choice is yours. If you'd like to switch to yarn, delete the `pnpm-lock.yaml` file, install the dependencies with `npm i or yarn`
 
 ## License
 
