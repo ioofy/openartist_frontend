@@ -13,7 +13,7 @@ this repo only for learning deep about react also lifecycle and using with TDD o
 - 🐶 Husky — For running scripts before committing
 - 📄 Commitizen — To define a standard way of committing rules
 - 🚓 Commitlint — Make sure your commit messages follow the convention
-- 🖌 Renovate — Keep your dependencies up to date
+- 🖌 ~~Renovate — Keep your dependencies up to date~~
 - 🚫 lint-staged — To run ESLint and Prettier against staged Git files
 - 👷 PR Workflow — Run Type Check & Linters on all Pull Requests
 - ⚙️ EditorConfig - Maintain consistent coding styles across editors and IDEs
