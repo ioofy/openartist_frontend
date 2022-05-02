@@ -1,5 +1,4 @@
 module.exports = {
-  // only purge in pages
   content: ['./src/**/*.{js,jsx,ts,tsx}'],
   theme: {
     extend: {
