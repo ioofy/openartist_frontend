@@ -1,15 +1,10 @@
-import styled from "@emotion/styled";
-
-const Heading = styled.p`
-  font-size: 1.5rem;
-  font-family: "Rubik", sans-serif;
-  font-weight: bold;
-`;
+import PopoverDemo from "@/components/Popover/Popover";
 
 export default function Home() {
   return (
     <div>
-      <Heading>We will change this in the future, hopefully</Heading>
+      <p>Hello</p>
+      <PopoverDemo />
     </div>
   );
 }
