@@ -1,4 +1,4 @@
-# React MarketPlace using CDD Concept
+# React using CDD Concept
 
 this repo only for learning deep about react also lifecycle and using CDD Concept.
 
@@ -7,7 +7,7 @@ this repo only for learning deep about react also lifecycle and using CDD Concep
 - ⚡️ Next.js 12
 - ⚛️ React 18
 - ⛑ TypeScript
-- 💅 Tailwind + Emotion for styling
+- 💅 Tailwind + Emotion + RadixUI for styling or components
 - 📏 ESLint — Find and fix problems in your code
 - 💖 Prettier — Code Formatter for consistent style
 - 🐶 Husky — For running scripts before committing
